@@ -1,0 +1,21 @@
+{
+  "features": [
+    "age",
+    "tenure_months",
+    "monthly_spend",
+    "calls",
+    "sms",
+    "complaints",
+    "avg_spend_per_month",
+    "is_new_customer",
+    "engagement_score",
+    "gender_F",
+    "gender_M",
+    "region_east",
+    "region_north",
+    "region_south",
+    "region_west"
+  ],
+  "threshold": 0.15000000000000002,
+  "value_est": 19150
+}
